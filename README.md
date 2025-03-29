@@ -36,3 +36,15 @@ API_KEY = "9fef95dda2b7ba8fa9bdba40c0f04c23"
 ✅ Dark & Light Mode toggle
 ✅ Refresh weather data
 ✅ Smooth animations & user-friendly UI
+
+![Screenshot (69)](https://github.com/user-attachments/assets/4a968d12-03f7-44ac-b8f7-e8e9b7029f68)
+
+![Screenshot (68)](https://github.com/user-attachments/assets/0c7bc9cb-7dad-4429-a2d0-e926b2471b93)
+
+![Screenshot (67)](https://github.com/user-attachments/assets/feee165e-29f0-4769-a74a-39c3e83da6e6)
+
+
+
+
+
+
