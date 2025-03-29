@@ -43,6 +43,12 @@ API_KEY = "9fef95dda2b7ba8fa9bdba40c0f04c23"
 
 ![Screenshot (67)](https://github.com/user-attachments/assets/feee165e-29f0-4769-a74a-39c3e83da6e6)
 
+📜 License
+
+This project is open-source and available under the MIT License.
+
+🌍 Made with ❤️ by Aryan Sahu
+
 
 
 
